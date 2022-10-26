@@ -1,0 +1,99 @@
+[
+	{
+	"test": "Leukozyten",
+	"min": 4000,
+	"max": 10000,
+	"unit": "/µl",
+	"value": 4200
+	},
+	{
+	"test": "Erythrozyten",
+	"min": 4.8,
+	"max": 5.9 ,
+	"unit": "Mio./µl",
+	"value": 4.1
+	},
+	{
+	"test": "Hämoglobin",
+	"min": 14,
+	"max": 18,
+	"unit": "g/dl",
+	"value": 10
+	},
+	{
+	"test": "Hämatokrit",
+	"min": 40,
+	"max": 54 ,
+	"unit": "%",
+	"value": 60
+	},
+	{
+	"test": "MCV",
+	"min": 78,
+	"max": 94,
+	"unit": "fl",
+	"value": 80
+	},
+	{
+	"test": "MCH",
+	"min": 28,
+	"max": 34,
+	"unit": "pg",
+	"value": 32
+	},
+	{
+	"test": "MCHC",
+	"min": 30,
+	"max": 36 ,
+	"unit": "g/dl",
+	"value": 37
+	},
+	{
+	"test": "Thrombozyten",
+	"min": 150000,
+	"max": 400000,
+	"unit": "/µl",
+	"value": 222221
+	},
+	{
+	"test": "Stabkernige Granulozyten",
+	"min": 3,
+	"max": 5,
+	"unit": "%",
+	"value": 3.2
+	},
+	{
+	"test": "Segmentkernige Granulozyten",
+	"min": 50,
+	"max": 70 ,
+	"unit": "%"	,
+	"value": 52
+	},{
+	"test": "Basophile Granulozyten",
+	"min": 0,
+	"max": 1 ,
+	"unit": "%",
+	"value": 0.235
+	},
+	{
+	"test": "Eosinophile Granulozyten",
+	"min": 1,
+	"max": 4 ,
+	"unit": "%",
+	"value": 0.896
+	},
+	{
+	"test": "Monozyten",
+	"min": 3,
+	"max": 7 ,
+	"unit": "%",
+	"value": 1.56
+	},
+	{
+	"test": "Lymphozyten",
+	"min": 25,
+	"max": 45 ,
+	"unit": "%",
+	"value": 40
+	}
+]
